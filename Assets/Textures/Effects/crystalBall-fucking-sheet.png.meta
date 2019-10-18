@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 86b561262805e384abd97575fd9b7412
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5555254653674521781
+    second: crystalBall-fucking-sheet_0
+  - first:
+      213: -270579640833979355
+    second: crystalBall-fucking-sheet_1
+  - first:
+      213: 1305942101279376334
+    second: crystalBall-fucking-sheet_2
+  - first:
+      213: 5438166517165356425
+    second: crystalBall-fucking-sheet_3
+  - first:
+      213: -8087137016027957187
+    second: crystalBall-fucking-sheet_4
+  - first:
+      213: -9101742050944612584
+    second: crystalBall-fucking-sheet_5
+  - first:
+      213: 3826239530162169506
+    second: crystalBall-fucking-sheet_6
+  - first:
+      213: 4589619321699714835
+    second: crystalBall-fucking-sheet_7
+  - first:
+      213: 3622945075560998995
+    second: crystalBall-fucking-sheet_8
+  - first:
+      213: 8364641148673565787
+    second: crystalBall-fucking-sheet_9
+  - first:
+      213: -8265490665684703200
+    second: crystalBall-fucking-sheet_10
+  - first:
+      213: -4220625990630837565
+    second: crystalBall-fucking-sheet_11
+  - first:
+      213: -284133808747793335
+    second: crystalBall-fucking-sheet_12
+  - first:
+      213: 936533893132182694
+    second: crystalBall-fucking-sheet_13
+  - first:
+      213: -1899376059035949209
+    second: crystalBall-fucking-sheet_14
+  - first:
+      213: -954175500297644551
+    second: crystalBall-fucking-sheet_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crystalBall-fucking-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 158
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99908aa60c4f6ea46845dd7dbaaa4aaa
+      internalID: 5555254653674521781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystalBall-fucking-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 159
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7778cf6ff83d1346aec2e87a775ac4b
+      internalID: -270579640833979355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystalBall-fucking-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17ddf6a8cc340140a100b24f3ae2ef9
+      internalID: 1305942101279376334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystalBall-fucking-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 160
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07947559925408d40a8b73459557ed6d
+      internalID: 5438166517165356425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystalBall-fucking-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 159
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f63729b33b4d9443b3a6ca74d118c2e
+      internalID: -8087137016027957187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystalBall-fucking-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 111
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640faf11b291fc74b9755e31131ffebd
+      internalID: -9101742050944612584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystalBall-fucking-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 114
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3c6a6ef9e45cd40a94c6c5f98e3ac5
+      internalID: 3826239530162169506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystalBall-fucking-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 111
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb56821d5f71b5498a3428b9e289b42
+      internalID: 4589619321699714835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystalBall-fucking-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 109
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac62072229493c0409d7107058072eb2
+      internalID: 3622945075560998995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystalBall-fucking-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 110
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a6b2c1e27070542bf54e20cb9f69c8
+      internalID: 8364641148673565787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystalBall-fucking-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaa3a71bb64c9a4dbf9ec6bf82703c9
+      internalID: -8265490665684703200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystalBall-fucking-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 65
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3b0bc1f9d75b649992fd50eac0e5b2
+      internalID: -4220625990630837565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystalBall-fucking-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 62
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5bf3b9e2b79264fb278b4857ad998d
+      internalID: -284133808747793335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystalBall-fucking-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 65
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eda5747ddd81ad4ca58835126ed6b16
+      internalID: 936533893132182694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystalBall-fucking-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 62
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d98a1ccfb02814b84121a2bc10cee1
+      internalID: -1899376059035949209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystalBall-fucking-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32ab3bf56b292f4c91efdff9556cf7c
+      internalID: -954175500297644551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
